@@ -1,5 +1,5 @@
 #
-# Feb 1, 2022:  (1) Test LASSO to get DRS from G*
+# Feb 11, 2022:  (1) Test LASSO to get DRS from G*
 #               (2) try tests 3, 4, 5, 6, 7 from https://github.com/shane5ul/pyReSpect-freq/tree/master/tests
 #
 from timeit import default_timer as timer
